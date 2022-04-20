@@ -7,8 +7,8 @@
 ### About me
 
 - 🔭 I’m currently working on: participating more in the crypto/nft space. Interacting with the communities and playing with DeFi
-- 🌱 I’m currently learning: Smart Contract development with [Solidity](https://soliditylang.org/)
-- 🤔 What I want to learn next: [Swift](https://www.swift.org/), [Rust](https://www.rust-lang.org), [Remix](https://remix.run/)
+- 🌱 I’m currently learning: Smart Contract development with [Solidity](https://soliditylang.org/), SSR with [Remix](https://remix.run/)
+- 🤔 What I want to learn next: [Swift](https://www.swift.org/), [Rust](https://www.rust-lang.org)
 - 💬 Ask me about: NFL, rap, crypto, NFTs!
 - 😄 Pronouns: he/him
 
