@@ -18,7 +18,7 @@ These are my current contributions to OSS:
 - [light-random](https://www.npmjs.com/package/light-random): Ultra-lightweight, cryptographically weak, alphanumerical, package-independent random string generator
 - [react-native-template-pro](https://www.npmjs.com/package/react-native-template-pro): A react-native template (back when it was a thing 😅)
 - [iOS - Sharing database across targets](https://nozbe.github.io/WatermelonDB/Advanced/SharingDatabaseAcrossTargets.html) docs section under the [WatermelonDB](https://github.com/Nozbe/WatermelonDB) repository
-- capacitor-volume-buttons: Ionic Capacitor plugin for listening to hardware volume button presses (under development)
+- [capacitor-volume-buttons](https://github.com/thiagobrez/capacitor-volume-buttons): Ionic Capacitor native plugin for listening to hardware volume button presses
 
 ### How to reach me
 
