@@ -1,6 +1,6 @@
 ## Thiago Brezinski
 
-👋 Hey! I'm Thiago. I'm currently a Software Engineer at [Clevertech](https://clevertech.biz). I have previously worked within a range of areas, from education, to healthcare, food delivery, chat / video-conferencing, to civil engineering. All of that mainly using JavaScript and Python.
+👋 Hey! I'm Thiago. I have previously worked within a range of areas, from education, to healthcare, food delivery, chat / video-conferencing, to civil engineering. All of that mainly using JavaScript and Python.
   
 🎯 I consider myself a problem solver, that happens to know how to code.
 
@@ -23,8 +23,6 @@ These are my current contributions to OSS:
 ### How to reach me
 
 I have just created a [twitter account](https://twitter.com/thiagobrez)! There I will be posting all about Web 2 & Web 3. Don't hesitate to reach out!
-
-<img width="574" alt="image" src="https://user-images.githubusercontent.com/26878038/164125249-9ec69bc8-2057-40f4-83e9-4c4f4081fd2d.png">
 
 Although if you need to be more formal, I'm always looking at my email <thiagobrez@gmail.com>
 
