@@ -19,6 +19,7 @@ These are my current contributions to OSS:
 - [react-native-template-pro](https://www.npmjs.com/package/react-native-template-pro): A react-native template (back when it was a thing 😅)
 - [iOS - Sharing database across targets](https://nozbe.github.io/WatermelonDB/Advanced/SharingDatabaseAcrossTargets.html) docs section under the [WatermelonDB](https://github.com/Nozbe/WatermelonDB) repository
 - [capacitor-volume-buttons](https://github.com/thiagobrez/capacitor-volume-buttons): Ionic Capacitor native plugin for listening to hardware volume button presses
+- [tidbyt-zenhub](https://github.com/thiagobrez/tidbyt-zenhub): Zenhub integration for your Tidbyt display
 
 ### How to reach me
 
