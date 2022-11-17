@@ -1,6 +1,6 @@
 ## Thiago Brezinski
 
-👋 Hey! I'm Thiago. I have previously worked within a range of areas, from education, to healthcare, food delivery, chat / video-conferencing, to civil engineering. All of that mainly using JavaScript and Python.
+👋 Hey! I'm Thiago. I have previously worked within a range of areas, from Blockchain/NFTs, to education, healthcare, food delivery, chat / video-conferencing, to civil engineering. All of that mainly using JavaScript and Python.
   
 🎯 I consider myself a problem solver, that happens to know how to code.
 
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: participating more in the crypto/nft space. Interacting with the communities and playing with DeFi
 - 🌱 I’m currently learning: 3D experiences with [Three.js](https://threejs.org/), Smart Contract development with [Solidity](https://soliditylang.org/)
 - 🤔 What I want to learn next: [Swift](https://www.swift.org/), [Rust](https://www.rust-lang.org)
-- 💬 Ask me about: NFL, rap, crypto, NFTs!
+- 💬 Ask me about: NFL, rap, crypto, NFTs
 - 😄 Pronouns: he/him
 
 ### Open-Source Software
