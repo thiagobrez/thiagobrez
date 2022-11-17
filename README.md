@@ -1,6 +1,6 @@
 ## Thiago Brezinski
 
-👋 Hey! I'm Thiago. I have previously worked within a range of areas, from Blockchain/NFTs, to education, healthcare, food delivery, chat / video-conferencing, to civil engineering. All of that mainly using JavaScript and Python.
+👋 Hey! I'm Thiago. I have previously worked within a range of areas, from Blockchain / NFTs, to education, healthcare, food delivery, chat / video-conferencing, to civil engineering. All of that mainly using JavaScript and Python.
   
 🎯 I consider myself a problem solver, that happens to know how to code.
 
