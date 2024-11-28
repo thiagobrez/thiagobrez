@@ -9,7 +9,7 @@ Previously, I have worked in a few other places around US, EU, and SA, within a 
 ### About me
 
 - 🔭 I’m currently working on: Web3 x React Native, and how to make the good tools/experiences we have on web also work in RN.
-- 🌱 I’m currently learning: 3D experiences with [Three.js](https://threejs.org/). You can check my WIP portfolio at [thiagobrez.dev](thiagobrez.dev)
+- 🌱 I’m currently learning: 3D experiences with [Three.js](https://threejs.org/). You can check my WIP portfolio at [brezin.ski](https://brezin.ski)
 - 🤔 What I want to learn next: dive deeper into [Swift](https://www.swift.org/) and iOS
 - 💬 Ask me about: crypto, NFTs, hip hop, Daft Punk 🤖
 - 😄 Pronouns: he/him
